@@ -1,6 +1,6 @@
 # Rest-Api-Countries
 
-In this project you will create a web page with CSS and JS, implement your own styles, make a responsive website, add a dark mode, and consume a country api using all the magic of Javascript. 
+In this project I will create a web page with CSS and JS, implement my own styles, make a responsive website, add a dark mode, and consume a country api using all the magic of Javascript. 
 
 Here the final result:
 
